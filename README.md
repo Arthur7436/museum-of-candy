@@ -16,5 +16,5 @@ This project is designed to solidify my understanding of Bootstrap 5.
 + Git
 
 ## Challenges I faced when building this project
-+ 1.<b>Changing the order of image and paragraph when on smaller screens</b>: 
-+ 2.<b>First image to fill to the top (including navbar)</b>:
++ <b>1. Changing the order of image and paragraph when on smaller screens</b>: 
++ <b>2. First image to fill to the top (including navbar)</b>:
