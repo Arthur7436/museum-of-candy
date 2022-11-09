@@ -19,10 +19,15 @@ li :hover {
 }
 
 img {
-    width: 100%;
+    width: 90%;
     max-height: 50rem;
 }
 
 .red {
     color: rgb(220,53,69);
+}
+
+h1 {
+    font-size: 4rem !important;
+    font-family: sans-serif;
 }
