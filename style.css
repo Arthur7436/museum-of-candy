@@ -1,0 +1,14 @@
+
+body {
+    background-color: rgb(247,211,220);
+}
+
+nav {
+   
+    background-color: rgb(247,211,220);
+}
+
+
+li :hover {
+    color: rgb(220,53,69) !important;
+}
