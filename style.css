@@ -1,5 +1,5 @@
 
-body {
+body  {
     background-color: rgb(247,211,220);
 }
 
@@ -11,4 +11,14 @@ nav {
 
 li :hover {
     color: rgb(220,53,69) !important;
+}
+
+/* Makes first img to be stuck on right side */
+.row>* {
+    padding-right: 0px !important;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 100px !important;
 }
