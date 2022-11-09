@@ -20,5 +20,9 @@ li :hover {
 
 img {
     width: 100%;
-    margin-bottom: 100px !important;
+    max-height: 50rem;
+}
+
+.red {
+    color: rgb(220,53,69);
 }
