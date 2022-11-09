@@ -29,6 +29,12 @@ img {
     font-size: 3rem;
 }
 
+@media (max-width:1200px) {
+    .heading {
+        font-size: 2rem;
+    }
+}
+
 /* forward slash is red around 'OF' */
 .red {
     color: rgb(220,53,69);
